@@ -1,0 +1,1735 @@
+{
+  "id": "campaign_2",
+  "name": "自由营营救",
+  "map_size": [
+    1672,
+    941
+  ],
+  "map_image": "场景地图与环境资产/迷宫地图场景2/自由营地图.png",
+  "player_spawn": [
+    120,
+    805
+  ],
+  "exit_rect": [
+    1300,
+    96,
+    150,
+    120
+  ],
+  "walk_zones": [
+    [
+      92,
+      780,
+      150,
+      58
+    ],
+    [
+      148,
+      586,
+      408,
+      204
+    ],
+    [
+      545,
+      670,
+      88,
+      52
+    ],
+    [
+      620,
+      704,
+      760,
+      78
+    ],
+    [
+      1358,
+      704,
+      92,
+      76
+    ],
+    [
+      1418,
+      744,
+      122,
+      74
+    ],
+    [
+      118,
+      268,
+      222,
+      300
+    ],
+    [
+      320,
+      360,
+      78,
+      82
+    ],
+    [
+      340,
+      540,
+      220,
+      70
+    ],
+    [
+      360,
+      185,
+      72,
+      365
+    ],
+    [
+      248,
+      84,
+      388,
+      122
+    ],
+    [
+      388,
+      205,
+      250,
+      62
+    ],
+    [
+      430,
+      130,
+      110,
+      96
+    ],
+    [
+      560,
+      145,
+      86,
+      92
+    ],
+    [
+      388,
+      262,
+      292,
+      148
+    ],
+    [
+      350,
+      405,
+      338,
+      68
+    ],
+    [
+      405,
+      460,
+      190,
+      98
+    ],
+    [
+      590,
+      452,
+      105,
+      82
+    ],
+    [
+      700,
+      38,
+      185,
+      185
+    ],
+    [
+      720,
+      190,
+      210,
+      120
+    ],
+    [
+      670,
+      286,
+      310,
+      285
+    ],
+    [
+      760,
+      230,
+      140,
+      82
+    ],
+    [
+      895,
+      285,
+      120,
+      86
+    ],
+    [
+      660,
+      584,
+      282,
+      126
+    ],
+    [
+      790,
+      560,
+      170,
+      62
+    ],
+    [
+      842,
+      626,
+      94,
+      104
+    ],
+    [
+      874,
+      585,
+      36,
+      64
+    ],
+    [
+      874,
+      718,
+      36,
+      112
+    ],
+    [
+      930,
+      112,
+      178,
+      172
+    ],
+    [
+      1020,
+      246,
+      360,
+      92
+    ],
+    [
+      1110,
+      246,
+      205,
+      112
+    ],
+    [
+      1188,
+      314,
+      180,
+      76
+    ],
+    [
+      958,
+      512,
+      356,
+      70
+    ],
+    [
+      990,
+      386,
+      78,
+      128
+    ],
+    [
+      1078,
+      386,
+      78,
+      128
+    ],
+    [
+      1166,
+      386,
+      78,
+      128
+    ],
+    [
+      1240,
+      386,
+      64,
+      128
+    ],
+    [
+      1318,
+      226,
+      232,
+      332
+    ],
+    [
+      1338,
+      422,
+      220,
+      142
+    ],
+    [
+      1378,
+      540,
+      88,
+      188
+    ],
+    [
+      1418,
+      214,
+      78,
+      260
+    ],
+    [
+      1278,
+      86,
+      180,
+      132
+    ],
+    [
+      1438,
+      154,
+      88,
+      76
+    ],
+    [
+      1410,
+      88,
+      130,
+      56
+    ],
+    [
+      78,
+      52,
+      620,
+      60
+    ],
+    [
+      760,
+      52,
+      340,
+      70
+    ],
+    [
+      1092,
+      52,
+      480,
+      58
+    ],
+    [
+      640,
+      225,
+      102,
+      80
+    ],
+    [
+      566,
+      224,
+      96,
+      60
+    ]
+  ],
+  "wall_rects": [
+    [
+      0,
+      0,
+      1672,
+      30
+    ],
+    [
+      0,
+      0,
+      58,
+      941
+    ],
+    [
+      1608,
+      0,
+      64,
+      941
+    ],
+    [
+      0,
+      850,
+      1672,
+      91
+    ],
+    [
+      64,
+      32,
+      1544,
+      18
+    ],
+    [
+      64,
+      830,
+      1544,
+      18
+    ],
+    [
+      64,
+      32,
+      18,
+      816
+    ],
+    [
+      1590,
+      32,
+      18,
+      816
+    ],
+    [
+      204,
+      618,
+      44,
+      38
+    ],
+    [
+      265,
+      614,
+      38,
+      118
+    ],
+    [
+      328,
+      610,
+      34,
+      132
+    ],
+    [
+      392,
+      606,
+      40,
+      140
+    ],
+    [
+      466,
+      606,
+      38,
+      142
+    ],
+    [
+      190,
+      740,
+      32,
+      42
+    ],
+    [
+      300,
+      744,
+      46,
+      36
+    ],
+    [
+      370,
+      742,
+      50,
+      38
+    ],
+    [
+      455,
+      742,
+      50,
+      38
+    ],
+    [
+      164,
+      324,
+      14,
+      136
+    ],
+    [
+      220,
+      324,
+      14,
+      136
+    ],
+    [
+      276,
+      324,
+      14,
+      136
+    ],
+    [
+      190,
+      438,
+      112,
+      18
+    ],
+    [
+      152,
+      506,
+      36,
+      36
+    ],
+    [
+      262,
+      504,
+      38,
+      42
+    ],
+    [
+      480,
+      300,
+      82,
+      22
+    ],
+    [
+      478,
+      355,
+      84,
+      22
+    ],
+    [
+      410,
+      465,
+      92,
+      38
+    ],
+    [
+      520,
+      462,
+      58,
+      38
+    ],
+    [
+      620,
+      352,
+      50,
+      58
+    ],
+    [
+      790,
+      342,
+      72,
+      92
+    ],
+    [
+      728,
+      430,
+      54,
+      62
+    ],
+    [
+      865,
+      480,
+      54,
+      52
+    ],
+    [
+      826,
+      292,
+      58,
+      36
+    ],
+    [
+      840,
+      640,
+      88,
+      88
+    ],
+    [
+      738,
+      612,
+      42,
+      64
+    ],
+    [
+      960,
+      606,
+      58,
+      52
+    ],
+    [
+      1018,
+      678,
+      44,
+      42
+    ],
+    [
+      1118,
+      680,
+      48,
+      42
+    ],
+    [
+      1190,
+      678,
+      48,
+      42
+    ],
+    [
+      1032,
+      142,
+      80,
+      72
+    ],
+    [
+      1112,
+      120,
+      70,
+      92
+    ],
+    [
+      1210,
+      136,
+      88,
+      66
+    ],
+    [
+      1050,
+      276,
+      52,
+      38
+    ],
+    [
+      1215,
+      280,
+      62,
+      34
+    ],
+    [
+      1018,
+      420,
+      22,
+      44
+    ],
+    [
+      1105,
+      420,
+      22,
+      44
+    ],
+    [
+      1192,
+      420,
+      22,
+      44
+    ],
+    [
+      1270,
+      420,
+      24,
+      44
+    ],
+    [
+      982,
+      520,
+      330,
+      18
+    ],
+    [
+      1362,
+      282,
+      34,
+      52
+    ],
+    [
+      1410,
+      280,
+      36,
+      54
+    ],
+    [
+      1460,
+      280,
+      38,
+      56
+    ],
+    [
+      1362,
+      470,
+      160,
+      34
+    ],
+    [
+      1518,
+      390,
+      34,
+      74
+    ],
+    [
+      1328,
+      112,
+      82,
+      72
+    ],
+    [
+      1450,
+      92,
+      52,
+      50
+    ],
+    [
+      1468,
+      196,
+      60,
+      36
+    ],
+    [
+      738,
+      72,
+      38,
+      118
+    ],
+    [
+      852,
+      72,
+      38,
+      118
+    ],
+    [
+      766,
+      204,
+      86,
+      18
+    ]
+  ],
+  "rescues": {
+    "hughie_cell": {
+      "rect": [
+        990,
+        386,
+        78,
+        128
+      ],
+      "rescue_point": [
+        1030,
+        528
+      ]
+    },
+    "mm_cell": {
+      "rect": [
+        1078,
+        386,
+        78,
+        128
+      ],
+      "rescue_point": [
+        1118,
+        528
+      ]
+    },
+    "frenchie_cell": {
+      "rect": [
+        1166,
+        386,
+        78,
+        128
+      ],
+      "rescue_point": [
+        1206,
+        528
+      ]
+    }
+  },
+  "props": [
+    {
+      "kind": "security_door",
+      "rect": [
+        740,
+        178,
+        44,
+        18
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "security_door",
+      "rect": [
+        846,
+        178,
+        44,
+        18
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "terminal",
+      "rect": [
+        1145,
+        270,
+        44,
+        30
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "spotlight_console",
+      "rect": [
+        1210,
+        272,
+        42,
+        30
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "terminal",
+      "rect": [
+        515,
+        282,
+        42,
+        30
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "cell_door",
+      "rect": [
+        1012,
+        510,
+        36,
+        16
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "cell_door",
+      "rect": [
+        1100,
+        510,
+        36,
+        16
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "cell_door",
+      "rect": [
+        1188,
+        510,
+        36,
+        16
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "crate",
+      "rect": [
+        220,
+        640,
+        38,
+        34
+      ],
+      "solid": true,
+      "interact": false
+    },
+    {
+      "kind": "crate",
+      "rect": [
+        310,
+        690,
+        42,
+        36
+      ],
+      "solid": true,
+      "interact": false
+    },
+    {
+      "kind": "crate",
+      "rect": [
+        468,
+        640,
+        42,
+        36
+      ],
+      "solid": true,
+      "interact": false
+    },
+    {
+      "kind": "server",
+      "rect": [
+        1365,
+        284,
+        34,
+        54
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "server",
+      "rect": [
+        1412,
+        284,
+        34,
+        54
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "server",
+      "rect": [
+        1460,
+        284,
+        34,
+        54
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "gate_switch",
+      "rect": [
+        1448,
+        214,
+        28,
+        34
+      ],
+      "solid": true,
+      "interact": true
+    },
+    {
+      "kind": "sewer_hatch",
+      "rect": [
+        858,
+        646,
+        56,
+        56
+      ],
+      "solid": false,
+      "interact": true
+    }
+  ],
+  "pickups": [
+    {
+      "kind": "keycard",
+      "rect": [
+        506,
+        330,
+        24,
+        24
+      ]
+    },
+    {
+      "kind": "medkit",
+      "rect": [
+        205,
+        720,
+        28,
+        24
+      ]
+    },
+    {
+      "kind": "energy",
+      "rect": [
+        470,
+        484,
+        24,
+        24
+      ]
+    },
+    {
+      "kind": "medkit",
+      "rect": [
+        1348,
+        510,
+        28,
+        24
+      ]
+    },
+    {
+      "kind": "energy",
+      "rect": [
+        885,
+        748,
+        24,
+        24
+      ]
+    }
+  ],
+  "hazards": [
+    {
+      "kind": "searchlight_zone",
+      "rect": [
+        88,
+        70,
+        180,
+        145
+      ]
+    },
+    {
+      "kind": "searchlight_zone",
+      "rect": [
+        1420,
+        56,
+        150,
+        130
+      ]
+    },
+    {
+      "kind": "laser_gate",
+      "rect": [
+        956,
+        518,
+        350,
+        16
+      ]
+    },
+    {
+      "kind": "electric_floor",
+      "rect": [
+        1015,
+        336,
+        245,
+        34
+      ]
+    },
+    {
+      "kind": "acid_pool",
+      "rect": [
+        860,
+        716,
+        52,
+        36
+      ]
+    },
+    {
+      "kind": "fire",
+      "rect": [
+        620,
+        532,
+        52,
+        38
+      ]
+    },
+    {
+      "kind": "laser_gate",
+      "rect": [
+        1380,
+        558,
+        20,
+        170
+      ]
+    }
+  ],
+  "enemies": [
+    {
+      "kind": "security",
+      "name": "gate_guard_1",
+      "spawn": [
+        760,
+        124
+      ],
+      "patrol": [
+        [
+          760,
+          124
+        ],
+        [
+          760,
+          205
+        ],
+        [
+          826,
+          205
+        ],
+        [
+          826,
+          124
+        ]
+      ]
+    },
+    {
+      "kind": "security",
+      "name": "gate_guard_2",
+      "spawn": [
+        858,
+        124
+      ],
+      "patrol": [
+        [
+          858,
+          124
+        ],
+        [
+          858,
+          205
+        ],
+        [
+          790,
+          205
+        ],
+        [
+          790,
+          124
+        ]
+      ]
+    },
+    {
+      "kind": "shield",
+      "name": "training_yard_shield",
+      "spawn": [
+        226,
+        418
+      ],
+      "patrol": [
+        [
+          150,
+          330
+        ],
+        [
+          306,
+          330
+        ],
+        [
+          306,
+          520
+        ],
+        [
+          150,
+          520
+        ]
+      ]
+    },
+    {
+      "kind": "security",
+      "name": "barracks_patrol",
+      "spawn": [
+        445,
+        150
+      ],
+      "patrol": [
+        [
+          285,
+          150
+        ],
+        [
+          612,
+          150
+        ],
+        [
+          612,
+          205
+        ],
+        [
+          285,
+          205
+        ]
+      ]
+    },
+    {
+      "kind": "security",
+      "name": "mess_hall_guard",
+      "spawn": [
+        520,
+        346
+      ],
+      "patrol": [
+        [
+          420,
+          300
+        ],
+        [
+          650,
+          300
+        ],
+        [
+          650,
+          400
+        ],
+        [
+          420,
+          400
+        ]
+      ]
+    },
+    {
+      "kind": "drone",
+      "name": "courtyard_drone",
+      "spawn": [
+        820,
+        350
+      ],
+      "patrol": [
+        [
+          710,
+          310
+        ],
+        [
+          940,
+          310
+        ],
+        [
+          940,
+          540
+        ],
+        [
+          710,
+          540
+        ]
+      ]
+    },
+    {
+      "kind": "heavy",
+      "name": "detention_heavy",
+      "spawn": [
+        1120,
+        548
+      ],
+      "patrol": [
+        [
+          970,
+          548
+        ],
+        [
+          1300,
+          548
+        ],
+        [
+          1300,
+          520
+        ],
+        [
+          970,
+          520
+        ]
+      ]
+    },
+    {
+      "kind": "security",
+      "name": "control_room_guard",
+      "spawn": [
+        1165,
+        312
+      ],
+      "patrol": [
+        [
+          1045,
+          290
+        ],
+        [
+          1290,
+          290
+        ],
+        [
+          1290,
+          340
+        ],
+        [
+          1045,
+          340
+        ]
+      ]
+    },
+    {
+      "kind": "mutant",
+      "name": "lab_mutant",
+      "spawn": [
+        1425,
+        454
+      ],
+      "patrol": [
+        [
+          1345,
+          420
+        ],
+        [
+          1530,
+          420
+        ],
+        [
+          1530,
+          540
+        ],
+        [
+          1345,
+          540
+        ]
+      ]
+    },
+    {
+      "kind": "drone",
+      "name": "helipad_drone",
+      "spawn": [
+        1368,
+        150
+      ],
+      "patrol": [
+        [
+          1295,
+          108
+        ],
+        [
+          1440,
+          108
+        ],
+        [
+          1440,
+          205
+        ],
+        [
+          1295,
+          205
+        ]
+      ]
+    },
+    {
+      "kind": "security",
+      "name": "warehouse_guard",
+      "spawn": [
+        360,
+        706
+      ],
+      "patrol": [
+        [
+          180,
+          630
+        ],
+        [
+          520,
+          630
+        ],
+        [
+          520,
+          760
+        ],
+        [
+          180,
+          760
+        ]
+      ]
+    },
+    {
+      "kind": "shield",
+      "name": "service_tunnel_shield",
+      "spawn": [
+        1030,
+        742
+      ],
+      "patrol": [
+        [
+          650,
+          742
+        ],
+        [
+          1350,
+          742
+        ]
+      ]
+    }
+  ],
+  "nav_graph": {
+    "nodes": [
+      {
+        "id": "spawn",
+        "pos": [
+          120,
+          805
+        ],
+        "tag": "player_spawn"
+      },
+      {
+        "id": "warehouse_west",
+        "pos": [
+          220,
+          720
+        ],
+        "tag": "warehouse"
+      },
+      {
+        "id": "warehouse_center",
+        "pos": [
+          360,
+          690
+        ],
+        "tag": "warehouse"
+      },
+      {
+        "id": "warehouse_east",
+        "pos": [
+          540,
+          695
+        ],
+        "tag": "warehouse_exit"
+      },
+      {
+        "id": "service_corridor_west",
+        "pos": [
+          640,
+          735
+        ],
+        "tag": "service_corridor"
+      },
+      {
+        "id": "sewer_hatch",
+        "pos": [
+          886,
+          676
+        ],
+        "tag": "sewer"
+      },
+      {
+        "id": "service_corridor_mid",
+        "pos": [
+          990,
+          735
+        ],
+        "tag": "service_corridor"
+      },
+      {
+        "id": "service_corridor_east",
+        "pos": [
+          1338,
+          735
+        ],
+        "tag": "service_corridor"
+      },
+      {
+        "id": "lower_right_gate",
+        "pos": [
+          1445,
+          760
+        ],
+        "tag": "escape_route"
+      },
+      {
+        "id": "training_yard",
+        "pos": [
+          230,
+          420
+        ],
+        "tag": "training_yard"
+      },
+      {
+        "id": "left_crossroad",
+        "pos": [
+          370,
+          420
+        ],
+        "tag": "junction"
+      },
+      {
+        "id": "mess_hall",
+        "pos": [
+          520,
+          336
+        ],
+        "tag": "mess_hall"
+      },
+      {
+        "id": "keycard_room",
+        "pos": [
+          520,
+          318
+        ],
+        "tag": "keycard"
+      },
+      {
+        "id": "rec_room",
+        "pos": [
+          485,
+          488
+        ],
+        "tag": "side_room"
+      },
+      {
+        "id": "barracks",
+        "pos": [
+          440,
+          150
+        ],
+        "tag": "barracks"
+      },
+      {
+        "id": "gate_entry",
+        "pos": [
+          815,
+          112
+        ],
+        "tag": "entry_checkpoint"
+      },
+      {
+        "id": "gate_security_door",
+        "pos": [
+          815,
+          202
+        ],
+        "tag": "locked_door"
+      },
+      {
+        "id": "north_courtyard",
+        "pos": [
+          812,
+          282
+        ],
+        "tag": "courtyard"
+      },
+      {
+        "id": "courtyard_center",
+        "pos": [
+          820,
+          430
+        ],
+        "tag": "courtyard"
+      },
+      {
+        "id": "courtyard_south",
+        "pos": [
+          820,
+          590
+        ],
+        "tag": "junction"
+      },
+      {
+        "id": "upper_office",
+        "pos": [
+          990,
+          190
+        ],
+        "tag": "office"
+      },
+      {
+        "id": "control_corridor",
+        "pos": [
+          1088,
+          300
+        ],
+        "tag": "control_corridor"
+      },
+      {
+        "id": "security_terminal",
+        "pos": [
+          1168,
+          286
+        ],
+        "tag": "terminal"
+      },
+      {
+        "id": "spotlight_console",
+        "pos": [
+          1230,
+          286
+        ],
+        "tag": "terminal"
+      },
+      {
+        "id": "detention_corridor_west",
+        "pos": [
+          970,
+          548
+        ],
+        "tag": "detention"
+      },
+      {
+        "id": "hughie_door",
+        "pos": [
+          1030,
+          528
+        ],
+        "tag": "cell_door"
+      },
+      {
+        "id": "mm_door",
+        "pos": [
+          1118,
+          528
+        ],
+        "tag": "cell_door"
+      },
+      {
+        "id": "frenchie_door",
+        "pos": [
+          1206,
+          528
+        ],
+        "tag": "cell_door"
+      },
+      {
+        "id": "detention_corridor_east",
+        "pos": [
+          1288,
+          548
+        ],
+        "tag": "detention"
+      },
+      {
+        "id": "lab_entry",
+        "pos": [
+          1360,
+          548
+        ],
+        "tag": "lab"
+      },
+      {
+        "id": "lab_center",
+        "pos": [
+          1440,
+          438
+        ],
+        "tag": "lab"
+      },
+      {
+        "id": "escape_vertical",
+        "pos": [
+          1445,
+          320
+        ],
+        "tag": "escape_route"
+      },
+      {
+        "id": "helipad_gate",
+        "pos": [
+          1442,
+          190
+        ],
+        "tag": "escape_route"
+      },
+      {
+        "id": "exit",
+        "pos": [
+          1375,
+          156
+        ],
+        "tag": "exit"
+      }
+    ],
+    "edges": [
+      [
+        "spawn",
+        "warehouse_west"
+      ],
+      [
+        "warehouse_west",
+        "warehouse_center"
+      ],
+      [
+        "warehouse_center",
+        "warehouse_east"
+      ],
+      [
+        "warehouse_east",
+        "service_corridor_west"
+      ],
+      [
+        "service_corridor_west",
+        "sewer_hatch"
+      ],
+      [
+        "sewer_hatch",
+        "service_corridor_mid"
+      ],
+      [
+        "service_corridor_mid",
+        "service_corridor_east"
+      ],
+      [
+        "service_corridor_east",
+        "lower_right_gate"
+      ],
+      [
+        "warehouse_east",
+        "left_crossroad"
+      ],
+      [
+        "left_crossroad",
+        "training_yard"
+      ],
+      [
+        "left_crossroad",
+        "mess_hall"
+      ],
+      [
+        "mess_hall",
+        "keycard_room"
+      ],
+      [
+        "mess_hall",
+        "rec_room"
+      ],
+      [
+        "left_crossroad",
+        "barracks"
+      ],
+      [
+        "barracks",
+        "gate_entry"
+      ],
+      [
+        "gate_entry",
+        "gate_security_door"
+      ],
+      [
+        "gate_security_door",
+        "north_courtyard"
+      ],
+      [
+        "north_courtyard",
+        "courtyard_center"
+      ],
+      [
+        "courtyard_center",
+        "courtyard_south"
+      ],
+      [
+        "courtyard_south",
+        "sewer_hatch"
+      ],
+      [
+        "north_courtyard",
+        "upper_office"
+      ],
+      [
+        "upper_office",
+        "control_corridor"
+      ],
+      [
+        "control_corridor",
+        "security_terminal"
+      ],
+      [
+        "security_terminal",
+        "spotlight_console"
+      ],
+      [
+        "control_corridor",
+        "detention_corridor_west"
+      ],
+      [
+        "courtyard_center",
+        "detention_corridor_west"
+      ],
+      [
+        "detention_corridor_west",
+        "hughie_door"
+      ],
+      [
+        "hughie_door",
+        "mm_door"
+      ],
+      [
+        "mm_door",
+        "frenchie_door"
+      ],
+      [
+        "frenchie_door",
+        "detention_corridor_east"
+      ],
+      [
+        "detention_corridor_west",
+        "detention_corridor_east"
+      ],
+      [
+        "detention_corridor_east",
+        "lab_entry"
+      ],
+      [
+        "lab_entry",
+        "lab_center"
+      ],
+      [
+        "lab_center",
+        "escape_vertical"
+      ],
+      [
+        "escape_vertical",
+        "helipad_gate"
+      ],
+      [
+        "helipad_gate",
+        "exit"
+      ],
+      [
+        "service_corridor_east",
+        "lab_entry"
+      ],
+      [
+        "lower_right_gate",
+        "escape_vertical"
+      ]
+    ]
+  }
+}
